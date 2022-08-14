@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbyTozz7eJltviAj3z+RwrUvGgoqiHTmWWa7ZoBa0onRBzmqdQ5BQTKElGMcB35yQTimSRgRyUxHE3kQ+Ks4Og==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\Design Pattern\\BuilderPattern\\BuilderPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishek.kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
