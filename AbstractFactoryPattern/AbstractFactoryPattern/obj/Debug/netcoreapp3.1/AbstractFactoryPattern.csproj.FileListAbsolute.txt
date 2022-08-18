@@ -1,0 +1,14 @@
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.exe
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.deps.json
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.json
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.AssemblyReference.cache
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+C:\Udemy\Design Pattern\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.genruntimeconfig.cache

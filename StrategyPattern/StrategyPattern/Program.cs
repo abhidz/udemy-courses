@@ -12,8 +12,6 @@ namespace StrategyPattern
             context.Add(2);
             context.Add(4);
             context.ShowSortedList();
-
-
             Console.ReadLine();
         }
     }
