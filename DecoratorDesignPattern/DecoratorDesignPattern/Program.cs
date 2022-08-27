@@ -6,16 +6,26 @@ namespace DecoratorDesignPattern
     {
         static void Main(string[] args)
         {
-            var book = new Book();
-            book.Title = "nagaraj";
+            Book book = new Book("Worley", "Inside ASP.NET", 10);
             book.Display();
-            Console.WriteLine(book.SetDimension(1, 2, 3));
+            // Create video
+            Video video = new Video("Spielberg", "Jaws", 23, 92);
+            video.Display();
+            LibraryItem bookItem = new Book("ahas", "hags", 2);
+           
+            // Make video borrowable, then borrow and display
+            Console.WriteLine("\nMaking video borrowable:");
+            Borowable borrowvideo = new Borowable(video);
+            borrowvideo.BorrowItem("Customer #1");
+            borrowvideo.BorrowItem("Customer #2");
+            borrowvideo.Display();
 
-            Console.WriteLine("Ater applying decorator pattern");
-
-            var decorator = new WrappedBook(book); // Calling decorator pattern
-            decorator.Display();
-            Console.WriteLine(decorator.SetDimension(1, 2, 3));
+            // Make book borrowable, then borrow and display
+            Console.WriteLine("\nMaking book borrowable:");
+            Borowable borrowbook = new Borowable(book);
+            borrowvideo.BorrowItem("Customer #3");
+            borrowvideo.BorrowItem("Customer #4");
+            borrowvideo.Display();
             Console.ReadLine();
         }
     }

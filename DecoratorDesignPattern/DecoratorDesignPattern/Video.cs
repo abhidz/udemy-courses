@@ -4,23 +4,26 @@ using System.Text;
 
 namespace DecoratorDesignPattern
 {
-    public class Book : LibraryItem
+    public class Video : LibraryItem
     {
-        private string author;
+        private string director;
         private string title;
+        private int playTime;
         // Constructor
-        public Book(string author, string title, int numCopies)
+        public Video(string director, string title, int numCopies, int playTime)
         {
-            this.author = author;
+            this.director = director;
             this.title = title;
             this.NumCopies = numCopies;
+            this.playTime = playTime;
         }
         public override void Display()
         {
-            Console.WriteLine("\nBook ------ ");
-            Console.WriteLine(" Author: {0}", author);
+            Console.WriteLine("\nVideo ----- ");
+            Console.WriteLine(" Director: {0}", director);
             Console.WriteLine(" Title: {0}", title);
             Console.WriteLine(" # Copies: {0}", NumCopies);
+            Console.WriteLine(" Playtime: {0}\n", playTime);
         }
     }
 }

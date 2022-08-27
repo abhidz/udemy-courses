@@ -11,3 +11,4 @@ C:\Udemy\Design Pattern\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\
 C:\Udemy\Design Pattern\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\netcoreapp3.1\DecoratorDesignPattern.dll
 C:\Udemy\Design Pattern\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\netcoreapp3.1\DecoratorDesignPattern.pdb
 C:\Udemy\Design Pattern\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\netcoreapp3.1\DecoratorDesignPattern.genruntimeconfig.cache
+C:\Udemy\Design Pattern\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\netcoreapp3.1\DecoratorDesignPattern.csproj.AssemblyReference.cache
