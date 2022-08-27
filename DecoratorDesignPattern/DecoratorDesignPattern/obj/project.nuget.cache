@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fGOBqi8u4kyHstmrFLoqR3DOja8z04qEHDUprP7u3Hq39vIHPKiOecpodMtOxFKNJ8FYK7Q3a43TtAn30yoTw==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\Design Pattern\\DecoratorDesignPattern\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishek.kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

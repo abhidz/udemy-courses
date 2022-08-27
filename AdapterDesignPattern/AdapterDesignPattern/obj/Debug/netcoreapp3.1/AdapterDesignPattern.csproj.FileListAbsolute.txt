@@ -1,0 +1,14 @@
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.exe
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.deps.json
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.json
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.runtimeconfig.dev.json
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.AssemblyInfo.cs
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.dll
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.pdb
+C:\Udemy\Design Pattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\netcoreapp3.1\AdapterDesignPattern.genruntimeconfig.cache
