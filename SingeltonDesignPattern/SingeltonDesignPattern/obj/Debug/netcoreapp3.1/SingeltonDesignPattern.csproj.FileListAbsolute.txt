@@ -1,0 +1,14 @@
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.exe
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.deps.json
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.runtimeconfig.json
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.runtimeconfig.dev.json
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.dll
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\bin\Debug\netcoreapp3.1\SingeltonDesignPattern.pdb
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.csproj.AssemblyReference.cache
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.AssemblyInfoInputs.cache
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.AssemblyInfo.cs
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.dll
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.pdb
+C:\Udemy\Design Pattern\SingeltonDesignPattern\SingeltonDesignPattern\obj\Debug\netcoreapp3.1\SingeltonDesignPattern.genruntimeconfig.cache
