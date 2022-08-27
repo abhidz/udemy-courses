@@ -2,7 +2,7 @@
 
 namespace AdapterDesignPattern
 {
-    class PlasticToyDuck : IToyDuck
+    public class PlasticToyDuck : IToyDuck
     {
         public void squeak()
         {

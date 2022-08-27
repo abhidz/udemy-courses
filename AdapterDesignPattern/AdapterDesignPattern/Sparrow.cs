@@ -2,7 +2,7 @@
 
 namespace AdapterDesignPattern
 {
-    class Sparrow : IBird
+    public class Sparrow : IBird
     {
         public void fly()
         {

@@ -1,6 +1,6 @@
 ﻿namespace AdapterDesignPattern
 {
-    interface IBird
+    public interface IBird
     {
         void fly();
         void makeSound();

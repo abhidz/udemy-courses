@@ -1,6 +1,6 @@
 ﻿namespace AdapterDesignPattern
 {
-    interface IToyDuck
+    public interface IToyDuck
     {
         // target interface
         // toyducks dont fly they just make

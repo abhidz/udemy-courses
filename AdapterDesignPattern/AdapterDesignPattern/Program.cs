@@ -6,7 +6,15 @@ namespace AdapterDesignPattern
     {
         static void Main(string[] args)
         {
-            var derived = new B(0);
+            IBird bird = new Sparrow();
+            bird.fly();
+            bird.makeSound();
+
+            IToyDuck toyDuck = new PlasticToyDuck();
+            toyDuck.squeak();
+
+            BirdAdaptor birdAdaptor = new BirdAdaptor(bird);
+            birdAdaptor.squeak();
             Console.ReadLine();
         }
     }
