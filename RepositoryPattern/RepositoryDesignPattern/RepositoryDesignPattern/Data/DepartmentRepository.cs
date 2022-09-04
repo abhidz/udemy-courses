@@ -22,5 +22,10 @@ namespace RepositoryDesignPattern.Data
         {
             get {return Context as LocalContext; }
         }
+
+        public void  Insert(Department department)
+        {
+            LocalContext.AddRange(department);
+        }
     }
 }

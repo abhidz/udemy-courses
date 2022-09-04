@@ -8,5 +8,7 @@ namespace RepositoryDesignPattern.Business.Repositories
     public interface IDepartmentRepository : IRepository<Department>
     {
         Department GetDepartmentNameByID(int id);
+
+        void Insert(Department department);
     }
 }
