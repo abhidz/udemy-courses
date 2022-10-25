@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ixURcD5llcRoIerxwElx+X8s8NXRYIec3p/XQFJlGaO/zV6zXJejFazk+nnMnuFVfsPKdT3QCy7XDspSoZuhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Udemy\\Design Pattern\\StateDesignPattern\\StateDesignPattern\\StateDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhishek.kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
